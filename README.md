@@ -1,5 +1,4 @@
-# Caveman hits Giraffe in a Car release notes
-Caveman hits Giraffe in a Car
+Caveman hits Giraffe in a Car release notes
 
 ## v.0.1.1
 New abilities, a live scoreboard, balancing adjustments, and several bug fixes.
