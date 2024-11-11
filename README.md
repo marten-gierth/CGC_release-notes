@@ -2,7 +2,7 @@
 A game by [Karl](https://github.com/karlkuhne), [Philip](https://github.com/PhilipStefanAhlers) and [Marten](https://github.com/marten-gierth).
 
 ### [Play our game on itch](https://moinmarten.itch.io/caveman-hits-giraffe-in-a-car) :)
-
+![](https://img.itch.zone/aW1hZ2UvMzAzNjQxNS8xODE2MDM0OC5naWY=/original/O79HIn.gif)
 
 # release notes
 
