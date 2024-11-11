@@ -1,4 +1,10 @@
-Caveman hits Giraffe in a Car release notes
+## Caveman hits Giraffe in a Car release notes
+A game by [Karl](https://github.com/karlkuhne), [Philip](https://github.com/PhilipStefanAhlers) and [Marten](https://github.com/marten-gierth).
+
+### [Play our game on itch](https://moinmarten.itch.io/caveman-hits-giraffe-in-a-car) :)
+
+
+# release notes
 
 ## v.0.1.1
 New abilities, a live scoreboard, balancing adjustments, and several bug fixes.
@@ -18,4 +24,4 @@ New abilities, a live scoreboard, balancing adjustments, and several bug fixes.
 •    Fixed a bug that skipped the first round.  
 •    Fixed a bug that hard-locked the player on the Upgrade screen.
 •    Fixed a bug where the mouse cursor was not visible on the Upgrade screen.
-•    Minor bug fixes.
+•    Minor bug fixes.  
