@@ -6,6 +6,28 @@ A game by [Karl](https://github.com/karlkuhne), [Philip](https://github.com/Phil
 
 # release notes
 
+## v.0.1.2
+New Animations, screen shake, critical hits, improved leaderboard with customizable avatars and several bug fixes.
+### Gameplay:
+•    Added screen shake when you take or deal damage.
+•    Added critical hits that deal twice the damage. The chance of critical hits is 1/5, but if you don’t get hit, the chance increases until the next successful critical hit.
+•    Added visible damage indicators above enemies’ heads.
+### Animations:
+•    Added walking animations to the Slime, Robot, Ghost, and Giraffe enemies.
+### UI:
+•    Reworked leaderboard screen.
+•    Added customizable Avatars, profile frames, and background colors.
+•    Upgrade cards no longer display if the stat is maxed.
+### Sounds:
+•    Added a Sound for the dash ability.
+•    Added a Sound for the timeslow ability.
+### Bug Fixes:
+•    Fixed a bug where the robot shooting sound was audible, but the robots did not fire.
+•    Minor bug fixes.
+
+
+
+
 ## v.0.1.1
 New abilities, a live scoreboard, balancing adjustments, and several bug fixes.
 ### Gameplay:
