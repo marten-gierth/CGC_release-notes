@@ -10,7 +10,7 @@ A game by [Karl](https://github.com/karlkuhne), [Philip](https://github.com/Phil
 New Animations, screen shake, critical hits, improved leaderboard with customizable avatars and several bug fixes.
 ### Gameplay:
 •    Added screen shake when you take or deal damage.
-•    Added critical hits that deal twice the damage. The chance of critical hits is 1/5, but if you don’t get hit, the chance increases until the next successful critical hit.
+•    Added critical hits that deal twice the damage.
 •    Added visible damage indicators above enemies’ heads.
 ### Animations:
 •    Added walking animations to the Slime, Robot, Ghost, and Giraffe enemies.
